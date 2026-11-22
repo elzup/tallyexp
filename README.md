@@ -2,8 +2,6 @@
 
 [![ooparts](https://raw.githubusercontent.com/elzup/ooparts-spec/main/badge.svg)](https://github.com/elzup/ooparts-spec)
 
-[Interactive demo](https://elzup.github.io/tallyexp/)
-
 数値を数字ではなく、記号の数や並びで表すための表現規格 (draft)。
 
 ```
